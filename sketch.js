@@ -15,7 +15,7 @@ function preload(){
   diamondsImg = loadImage("diamonds.png");
   jewelryImg = loadImage("jwell.png");
   swordImg = loadImage("sword.png");
-  endImg = loadImage("GameOver.png");
+  endImg = loadImage("gameOver.png");
 }
 
 function setup(){
